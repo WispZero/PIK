@@ -1,3 +1,4 @@
 # PIK
 Simple approach for PIK Digital Day contest
-Link to contest - https://trainmydata.com/c/pik_digital_day
+\nLink to contest - https://trainmydata.com/c/pik_digital_day
+\nRar files contains other notes in ipynb and submissions in format <boost type>_<cv score>_<lb score>
